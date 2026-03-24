@@ -33,7 +33,7 @@ The dataset used for this project is included in the repository.
 
 ## 📥 Download Files
 - [Download PBIX File](Job_Market_Dashboard.pbix)  
-- [Download Dataset](India_Data_Analyst_Jobs_Dataset.xlsx)
+- [Download Dataset](India_Data_Analyst_Jobs_Dataset.csv)
 
 ## 💡 Conclusion
 This dashboard provides insights into job market trends and helps identify key skills required for data analyst roles.
