@@ -29,7 +29,7 @@ To understand the job market for data analysts and identify in-demand skills and
 The dataset used for this project is included in the repository.
 
 ## 📷 Dashboard Preview
-![Dashboard](jobdashboard.png)
+![Dashboard](jobsdashboard.png)
 
 ## 📥 Download Files
 - [Download PBIX File](Job_Market_Dashboard.pbix)  
